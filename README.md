@@ -1,6 +1,7 @@
 CEOS_SearchLight: A Canonical Ground-Truth Platform
 
 [Status: _LABS / Building in Public — Stage 05_SHARE]
+
 Welcome to the public development hub for _SearchLight, a core component of the Creative Engine OS (CEOS).
 
 As modern creatives, we believe production is dynamic. A professional system should provide robust guide rails without restricting the creative environment. To prove this, we are executing the transition of _SearchLight from v1 to v2 entirely in the open. We have temporarily moved this project from the production _CORE back into our _LABS environment to stress-test the underlying concepts, telemetry loops, and daily business practices live on the web.
