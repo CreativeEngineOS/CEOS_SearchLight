@@ -57,5 +57,24 @@ We invite developers, polymath creators, and pragmatic craftspeople to experienc
 * **Gumroad (Beta Access):** [creativeengineos.gumroad.com](https://creativeengineos.gumroad.com)
 * **Itch.io (Experiments & Prototypes):** [creative-engineos.itch.io](https://creative-engineos.itch.io)
 
+## Appendix: The Sandbox & Community Support
+
+We are currently finalizing the UI/UX of the CEOS_SearchLight architecture. Rather than just publishing a technical manifesto, we have deployed a publicly accessible sandbox so you can experience the cognitive ergonomics of the platform firsthand. 
+
+### Test the Sandbox
+**Access the Live UI/UX Sandbox:** [ceos.oogimages.com/SandBox/](https://ceos.oogimages.com/SandBox/)
+*(Note: Because this is a static test environment, live listener feeds and dynamic backend server signals are currently simulated).*
+
+We invite your harshest, most rigorous critiques. Tear the concept apart, test the flow, and open an issue to let us know how we can improve the interface. 
+
+### Read the Full Breakdown
+For a comprehensive look at the philosophy driving this tool and how we use *Artefunctional Intelligence* to dictate terms to automated crawlers, read the full article:
+**[How to Protect Creative IP from AI Crawlers](https://oogimages.com/protect-creative-ip-ceos-searchlight/)**
+
+### ☕ Support the Project
+CEOS_SearchLight is built independently for creatives, media professionals, and developers to maintain autonomy and sovereignty over their work. If you believe in building practical, dependency-free tools for creative control, please consider supporting the ongoing development.
+
+[![Support this Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ceos_supportcreativity)
 ---
 *CEOS: A Workspace for the Creatives and Media-Professional.*
+
